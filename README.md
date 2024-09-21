@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<h2 align="left">Hi 👋! My name is zidan and I'm a student, from smakzie</h2>
+<h2 align="left">Hi 👋! My name is Azhar and I'm a student, from smakzie</h2>
 
 ###
 
